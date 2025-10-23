@@ -62,8 +62,9 @@ Me chamo Arthur, sou estudante de programação com interesse em frontend e back
 ### 🤖 Estatísticas
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tukis-bit&show_icons=true&theme=tokyonight&locale=pt-br)
-<p>
+<div align=center>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Tukis-bit&count_private=true&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
 
 
 <img 
