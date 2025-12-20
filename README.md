@@ -9,7 +9,7 @@ Me chamo Arthur, sou estudante de programação com interesse em frontend e back
 
 # 🤔 Sobre mim
 - Tenho 17 anos
-- Estudo para me tornar dev full-stack
+- Estudo para me tornar dev backend
 - Curto aprender coisas novas e entender como tudo funciona.
 
 
