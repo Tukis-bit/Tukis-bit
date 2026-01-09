@@ -2,10 +2,10 @@
 
 👨‍💻 **Estudante de Programação | Foco em Backend (.NET / C#)**
 
-Me chamo **Arthur**, sou estudante de programação com interesse em **frontend e backend**.  
+Me chamo **Arthur**, sou estudante de programação com interesse em desenvolvimento **backend**.  
 Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAC**.
 
-Estudo e pratico **desenvolvimento backend com C# e .NET**, mantendo uma base em frontend e bancos de dados.  
+Meu foco atual é o **desenvolvimento backend com C# e .NET**, trabalhando com lógica de programação, regras de negócio, APIs e banco de dados.  
 Também utilizo a **plataforma Alura** para aprofundar meus conhecimentos e evoluir continuamente.
 
 ---
@@ -14,13 +14,25 @@ Também utilizo a **plataforma Alura** para aprofundar meus conhecimentos e evol
 - 🎯 Objetivo: me tornar **desenvolvedor backend (.NET)**  
 - 🎓 Estudante de **ADS — SENAC**  
 - 📚 Estudando pela **Alura** e aplicando o aprendizado em projetos práticos  
-- 🧠 Gosto de entender como os sistemas funcionam por trás: regras de negócio, APIs e banco de dados  
+- 🧠 Sempre tive mais afinidade com **backend**, lógica e funcionamento interno dos sistemas  
 
 ---
 
 ## 📖 Linguagens e Tecnologias
 
-### 🧩 Frontend
+> **Observação:** As tecnologias abaixo estão organizadas entre **foco atual em backend** e **tecnologias já estudadas**, utilizadas em exercícios e projetos iniciais durante minha formação.
+
+### ⚙️ Backend — foco atual
+<img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt=".NET" title=".NET" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<br><br>
+
+### 📘 Tecnologias estudadas / contato inicial
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;"
@@ -31,22 +43,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="SASS" title="SASS" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-
-<br><br>
-
-### ⚙️ Backend
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".NET" title=".NET" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-
-<br><br>
-
-### 🗄️ Banco de Dados
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <br><br>
 
