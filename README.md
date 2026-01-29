@@ -42,14 +42,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <br><br>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Tukis-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukis-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
+--- ## 📊 Estatísticas GitHub <div align="center"> <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tukis-bit&count_private=true&theme=react&border=61dafb&hide_border=true" /> </div> <br> <div align="center"> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukis-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> </div>
